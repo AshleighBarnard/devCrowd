@@ -11,7 +11,7 @@ A social networking application for developers to connect with each other. A ful
 
 
 ## Website
-Click here to use! [Connect Now!](hhttps://afternoon-shore-70439.herokuapp.com/).
+Click here to use! [Connect Now!](https://afternoon-shore-70439.herokuapp.com/).
 
 ## Copyright
 
